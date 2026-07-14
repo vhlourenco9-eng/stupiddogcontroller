@@ -1,4 +1,4 @@
-PROJECT_NAME           = "AntiMicroX"
+PROJECT_NAME           = "stupiddogcontroller"
 
 OUTPUT_DIRECTORY       = @CMAKE_CURRENT_SOURCE_DIR@/docs/
 INPUT                  = @CMAKE_CURRENT_SOURCE_DIR@/README.md @CMAKE_CURRENT_SOURCE_DIR@/BUILDING.md @CMAKE_CURRENT_SOURCE_DIR@/src/
