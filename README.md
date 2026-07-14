@@ -1,4 +1,4 @@
-# <img src="./src/images/antimicrox.png" alt="Icon" width="60"/> AntiMicroX
+# <img src="./src/images/stupiddogcontroller.png" alt="Icon" width="60"/> stupiddogcontroller
 
 1. [Description](#description)  
 2. [License](#license)  
